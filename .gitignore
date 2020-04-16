@@ -1,0 +1,4 @@
+node_modules/
+dist/
+project/src/index.js
+project/src/index.test.js
